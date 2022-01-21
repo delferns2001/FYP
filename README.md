@@ -1,8 +1,8 @@
 # FYP
  
-Learning Sources: 
+## **Learning Sources:**
 
-Youtube Links used:
+### **Youtube Links used**:
 
 10 hour tuttorial goinf from basics of tensors to devaloping neural networks:
 https://www.youtube.com/watch?v=tpCFfeUEGs8&ab_channel=DanielBourke
@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YR
 
 All different types of neural networks overview:
 https://www.youtube.com/watch?v=tPYj3fFJGjk&t=10449s&ab_channel=freeCodeCamp.org
+
+
+### **Other sources**
 
 Example of Recurrent Neural Network to generate recipes 
 https://towardsdatascience.com/generating-cooking-recipes-using-tensorflow-and-lstm-recurrent-neural-network-a7bf242acad3
