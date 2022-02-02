@@ -1,5 +1,5 @@
 Each H5 file is trained on the same model.
 
-The next upcoming H5 file is trained using the weights saved in the previous H5 file (so the total of epochs is a cumalative count).
+The next upcoming H5 file is trained using the weights saved in the previous H5 file (so the total number of epochs is a cumalative count).
 
 Each model Name format: model_(model number)_(number of epcochs trained for)_(total number epochs the model is trained for)
