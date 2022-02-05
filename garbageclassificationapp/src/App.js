@@ -2,12 +2,14 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import TopNavBar from "./Components/Navbar";
 import Homepage from "./Components/HomePage";
+import Model from "./Components/model";
 
 function App() {
     return (
         <>
-            <TopNavBar></TopNavBar>
-            <Homepage></Homepage>
+            <Model></Model>
+            {/* <TopNavBar></TopNavBar>
+            <Homepage></Homepage> */}
         </>
     );
 }
