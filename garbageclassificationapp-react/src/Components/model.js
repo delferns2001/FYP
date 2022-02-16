@@ -20,7 +20,7 @@ export default function RefModel() {
         setIsModelLoading(true);
         try {
             const model = await tf.loadLayersModel(
-                "https://raw.githubusercontent.com/delferns2001/FYP/master/Practice%20Trained%20Model/JsModel_175Epochs/model.json"
+                "https://raw.githubusercontent.com/delferns2001/FYP/master/Practice%20Trained%20Model/6classes_inceptionV3_20TE/model.json"
             );
             setModel(model);
             setIsModelLoading(false);

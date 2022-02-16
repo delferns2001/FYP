@@ -4,13 +4,14 @@ import TopNavBar from "./Components/Navbar";
 import Homepage from "./Components/HomePage";
 import Model from "./Components/model";
 import UploadButton from "./Components/uploadbutton";
+import RefModel from "./Components/model";
 
 function App() {
     return (
         <>
-
-            <TopNavBar></TopNavBar>
-            <Homepage></Homepage>
+            <RefModel></RefModel>
+            {/* <TopNavBar></TopNavBar>
+            <Homepage></Homepage> */}
         </>
     );
 }
